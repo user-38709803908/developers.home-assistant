@@ -4,7 +4,7 @@ title: "Contributing your voice"
 
 You can help us and the rest of the  open voice community develop **speech-to-text** and **text-to-speech** models for your language.
 
-## Speech-to-text
+## Speech-to-text - own
 
 When you speak to a computer, it **transcribes** the audio from your voice into text. There are many ways to do this, but they all rely on recordings of people speaking.
 
